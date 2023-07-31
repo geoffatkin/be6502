@@ -1,2 +1,9 @@
+.vscode/
 a.out
 listing.txt
+rom.bin
+*.backup
+*.zip
+*.ino
+*.hex
+*.out
